@@ -1,5 +1,6 @@
-#Spring Boot Application
+# Spring Boot Demo Application
 
-To build: **mvn clean install**
+## Setup
+Building: **mvn clean install**
 
-To run: **mvn spring-boot:run**
+Running: **mvn spring-boot:run**
